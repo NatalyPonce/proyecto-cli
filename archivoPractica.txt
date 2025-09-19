@@ -1,3 +1,6 @@
 ﻿Soy Nataly Ponce y estoy dando ayudantía de github
 
 cambio para merge
+
+
+nuevo cambio desde local
